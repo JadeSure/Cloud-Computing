@@ -1,0 +1,23 @@
+runtime: php55
+
+api_version: 1
+
+handlers:
+- url: /css
+  static_dir: css
+- url: /img
+  static_dir: img
+- url: /js
+  static_dir: js
+- url: /register.php
+  script: register.php
+- url: /book.html
+  script: book.html
+- url: /index.php
+  script: index.php
+- url: /main.php
+  script: main.php
+- url: /login.php
+  script: login.php
+- url: /.*
+  script: login.php
