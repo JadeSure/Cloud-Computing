@@ -2,9 +2,9 @@
 Group member:  
 Shuo Wang, Mingjin Yeh
 ## Book Lake Project
-![picture1](/Book/ Lake/image/Console.png)
+![picture1](/Book_Lake/image/Console.png)
 This project apply the cloud computing concept and design a highly scalable application. From this point, we have utilized Google App Engine, Google cloud storage, Google book API, Google virtualization API and AWS simple storage. The following report details the work we have done. Our application provides a user-friendly interface to access the online books in google book database. The search function returns the accurate results with the basic information to appease the users. With the help of APIs, the product provides an online reading platform for book lovers. We also devote to aquire data from various sources. It gave us a chance to exam and excel those cutting-edge products from the field. Authentication is the other feature that we have implemented in our product. In all, the web application has the potential to become a real product with more research on UI and UE design.  
-![picture2](Book Lake/image/Structure.png)
+![picture2](/Book_Lake/image/Structure.png)
 ### Software design/architecture
 1. Google books API v1(Experimental):
 This API can perform full-text searches and retrieve book information with the following methods described in the Google Books Developer Guide [1].  
